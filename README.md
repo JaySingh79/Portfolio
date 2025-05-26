@@ -1,43 +1,41 @@
-<<<<<<< HEAD
-# Portfolio
-=======
-# <a href="https://vinodjangid07.github.io/" target="_blank">My Portfolio</a>
-<p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
+# 🚀 Jay Singh's Portfolio
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/vinodjangid07/vinodjangid07.github.io)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://vinodjangid07.github.io/)
-[![Author](https://img.shields.io/badge/Author-Vinod%20Jangid-purple.svg)](https://www.instagram.com/its_.me._vinod?igshid=YmMyMTA2MsY%3D)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Jan%202024-yellow.svg)](https://github.com/vinodjangid07/vinodjangid07.github.io)
-<a href="https://github.com/vinodjangid07/vinodjangid07.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
+📌 A personal portfolio website showcasing my **projects**, **skills**, **experience**, and ways to get in touch.  
+Hosted via GitHub Pages.
 
-<img width="100%" alt="Portfolio Screenshot" src="https://github.com/vinodjangid07/vinodjangid07.github.io/assets/86096184/fd0d70b2-1505-4adf-8b0c-427df58607e3">
+[![Repository Status](https://img.shields.io/badge/Repo-Maintained-darkgreen)](https://github.com/JaySingh79/Portfolio)
+[![Website Status](https://img.shields.io/badge/Website-Online-brightgreen)](https://jaysingh79.github.io/)
+[![Author](https://img.shields.io/badge/Author-Jay%20Singh-blueviolet)](https://www.linkedin.com/in/jaysingh79/)
+[![Latest Update](https://img.shields.io/badge/Last%20Update-May%202025-yellow)](https://github.com/JaySingh79/Portfolio)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 
+---
 
-:star: Star me on GitHub — it helps!
+<img src="https://your-screenshot-image-link" width="100%" alt="Portfolio Screenshot" />
 
-# Sections 📚
+---
 
-✔️ Mini intro\
-✔️ About me \
-✔️ Skills\
-✔️ Projects\
-✔️ Contact me
+## 📂 Sections
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- ⚠️ Remove my Bitmoji <img src="https://github.com/vinodjangid07/vinodjangid07.github.io/assets/86096184/05e5b2d6-8b38-4cf9-a5a3-eb63e81aab1d" width="20px"> from the navbar/footer and use yours instead.⚠️
-- Add or remove images from `https://www.vinodjangid.me/src/` directory as per your requirement.
-- ⚠️<b>NOTE:</b> Make sure to remove `analyticsId` & `google search console Id` from `<head>` tag, and set yours, if you want to use your own Google Analytics & search console account.⚠️
+- ✨ Introduction
+- 👨‍💻 About Me
+- 🛠️ Tech Stack & Skills
+- 📈 Projects
+- 📬 Contact Info
 
+---
 
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+## ⚙️ Setup & Deployment
 
-## Tools Used 🛠️
-* [<b>GitHub</b>](https://github.com/) - To host my static website (HTML, CSS, JS).
-* [<b>Animate on scroll library</b>](https://github.com/michalsnik/aos) - To animate my website while scrolling.
-* [<b>Animista</b>](https://animista.net/) - To use Interactive animations
+1. **Clone this repo**  
+   ```bash
+   git clone https://github.com/JaySingh79/Portfolio.git
 
+---
 
-Please contact me at infovinodjangid@gmail.com if you have any feedback for the website. :star: Star it, if you like it!
->>>>>>> d801134 (First Commit After New Creation)
+> ✅ **Things you can do next**:
+- Replace the image link under `Portfolio Screenshot` with your actual screenshot.
+- Update your **LinkedIn**, **Email**, and other relevant links.
+- If you used different libraries or animations, update that section accordingly.
+
+Let me know if you’d like a **dark mode toggle**, **project card templates**, or a **contact form integration** as well!
