@@ -1,43 +1,43 @@
-<<<<<<< HEAD
-# Portfolio
-=======
-# <a href="https://vinodjangid07.github.io/" target="_blank">My Portfolio</a>
-<p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
+<h1 align="center">📊 Jay Singh's Data Science Portfolio</h1>
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/vinodjangid07/vinodjangid07.github.io)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://vinodjangid07.github.io/)
-[![Author](https://img.shields.io/badge/Author-Vinod%20Jangid-purple.svg)](https://www.instagram.com/its_.me._vinod?igshid=YmMyMTA2MsY%3D)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Jan%202024-yellow.svg)](https://github.com/vinodjangid07/vinodjangid07.github.io)
-<a href="https://github.com/vinodjangid07/vinodjangid07.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
+<p align="center">
+A minimal yet powerful portfolio highlighting my journey as a Data Scientist — from solving real-world ML challenges to advancing cutting-edge deep learning research.
+</p>
 
-<img width="100%" alt="Portfolio Screenshot" src="https://github.com/vinodjangid07/vinodjangid07.github.io/assets/86096184/fd0d70b2-1505-4adf-8b0c-427df58607e3">
+<p align="center">
+  <a href="https://github.com/JaySingh79/Portfolio"><img src="https://img.shields.io/badge/Repository-Maintained-darkgreen?style=flat-square"></a>
+  <a href="https://jaysingh79.github.io"><img src="https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/jaysingh79/"><img src="https://img.shields.io/badge/Data%20Scientist-Jay%20Singh-blueviolet?style=flat-square"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square"></a>
+</p>
 
+---
 
-:star: Star me on GitHub — it helps!
+<img src="https://your-portfolio-screenshot-link" alt="Portfolio Screenshot" width="100%"/>
 
-# Sections 📚
+---
 
-✔️ Mini intro\
-✔️ About me \
-✔️ Skills\
-✔️ Projects\
-✔️ Contact me
+## 🧠 About This Portfolio
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- ⚠️ Remove my Bitmoji <img src="https://github.com/vinodjangid07/vinodjangid07.github.io/assets/86096184/05e5b2d6-8b38-4cf9-a5a3-eb63e81aab1d" width="20px"> from the navbar/footer and use yours instead.⚠️
-- Add or remove images from `https://www.vinodjangid.me/src/` directory as per your requirement.
-- ⚠️<b>NOTE:</b> Make sure to remove `analyticsId` & `google search console Id` from `<head>` tag, and set yours, if you want to use your own Google Analytics & search console account.⚠️
+This portfolio serves as a snapshot of my professional work in **Machine Learning**, **Deep Learning**, and **AI research**.  
+From building scalable ML pipelines to working on LLMs and Transformer architectures, I aim to push the boundaries of what's possible with data.
 
+---
 
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+## 📁 Sections Overview
 
-## Tools Used 🛠️
-* [<b>GitHub</b>](https://github.com/) - To host my static website (HTML, CSS, JS).
-* [<b>Animate on scroll library</b>](https://github.com/michalsnik/aos) - To animate my website while scrolling.
-* [<b>Animista</b>](https://animista.net/) - To use Interactive animations
+- 📍 **Intro** — Who I am and what drives me  
+- 🧪 **Research & Projects** — Real-world ML/DL applications, LLMs, RAG pipelines, etc.  
+- ⚙️ **Skills & Tools** — My technical toolbox and specialization areas  
+- 🧭 **Experience** — Internships & collaborations that shaped my path  
+- 📫 **Contact** — Let’s collaborate or connect
 
+---
 
-Please contact me at infovinodjangid@gmail.com if you have any feedback for the website. :star: Star it, if you like it!
->>>>>>> d801134 (First Commit After New Creation)
+## 🚀 Get Started
+
+To explore or modify this website:
+
+```bash
+git clone https://github.com/JaySingh79/Portfolio.git
+cd Portfolio
