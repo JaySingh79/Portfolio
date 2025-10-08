@@ -300,7 +300,7 @@ html {
   position: relative;
   width: 40px;
   height: 40px;
-  background-image: url(src/png/crescent-moon\\(1\).png);
+  background-image: url("src/png/crescent-moon (1).png");
   background-size: 50%;
   transition-duration: 0.5s;
   cursor: pointer;
@@ -1703,7 +1703,7 @@ footer {
 
 @media screen and (max-width: 600px) {
   .footer-avatar-container {
-    transform: scale(0.7);
+    transform: scale(0.6);
   }
 }
 
