@@ -1345,8 +1345,15 @@ footer {
   width: 20px;
 }
 
-.image-div {
+/* .image-div {
   width: 50%;
+  height: 100%;
+  padding-top: 70px;
+  padding-left: 10px;
+} */
+
+.image-div {
+  width: 70%;
   height: 100%;
   padding-top: 70px;
   padding-left: 10px;
