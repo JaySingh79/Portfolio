@@ -1367,10 +1367,10 @@ footer {
   display: block;
 }
 
-/* .image-div img {
+.agentic-image-div img {
   height: 100%;
   border-top-left-radius: 30px;
-} */
+}
 
 .ProjectHeading {
   color: var(--color-white);
