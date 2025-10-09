@@ -1370,9 +1370,13 @@ footer {
 }
 
 .ProjectCredits {
-  color: gray;
+  color: rgb(165, 157, 157);
   font-size: 1.2rem;
   font-weight: 400;
+}
+.ProjectCredits a {
+  color: #edf25d;   /* Change this to any color you like */
+  text-decoration: underline; /* Optional: keeps it underlined */
 }
 
 .project-buttons {
