@@ -1,43 +1,69 @@
-<h1 align="center">📊 Jay Singh's Data Science Portfolio</h1>
+# Jay Singh — AI/ML Engineer
 
-<p align="center">
-A minimal yet powerful portfolio highlighting my journey as a Data Scientist — from solving real-world ML challenges to advancing cutting-edge deep learning research.
-</p>
+Personal portfolio and technical work spanning **Machine Learning, Deep Learning, LLMs, Agentic AI, NLP, and applied AI systems**.
 
-<p align="center">
-  <a href="https://github.com/JaySingh79/Portfolio"><img src="https://img.shields.io/badge/Repository-Maintained-darkgreen?style=flat-square"></a>
-  <a href="https://jaysingh79.github.io"><img src="https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/jaysingh79/"><img src="https://img.shields.io/badge/Data%20Scientist-Jay%20Singh-blueviolet?style=flat-square"></a>
-  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square"></a>
-</p>
+**Portfolio:** https://jaysingh.vercel.app  
+**GitHub:** https://github.com/JaySingh79
 
 ---
 
-<img src="https://your-portfolio-screenshot-link" alt="Portfolio Screenshot" width="100%"/>
+## Focus
+
+- Machine Learning and Deep Learning
+- Large Language Models and Transformer architectures
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI and tool-using systems
+- NLP and representation learning
+- ML experimentation, evaluation, and optimization
+- Production-oriented AI/ML engineering
 
 ---
 
-## 🧠 About This Portfolio
+## Technologies
 
-This portfolio serves as a snapshot of my professional work in **Machine Learning**, **Deep Learning**, and **AI research**.  
-From building scalable ML pipelines to working on LLMs and Transformer architectures, I aim to push the boundaries of what's possible with data.
+**Languages:** Python, SQL, JavaScript
 
----
+**ML/DL:** PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost
 
-## 📁 Sections Overview
+**LLM/NLP:** Transformers, LangChain, Sentence Transformers, RAG, PEFT/LoRA
 
-- 📍 **Intro** — Who I am and what drives me  
-- 🧪 **Research & Projects** — Real-world ML/DL applications, LLMs, RAG pipelines, etc.  
-- ⚙️ **Skills & Tools** — My technical toolbox and specialization areas  
-- 🧭 **Experience** — Internships & collaborations that shaped my path  
-- 📫 **Contact** — Let’s collaborate or connect
+**Data:** NumPy, Pandas, Matplotlib
+
+**Infrastructure:** Docker, Git, Cloud Platforms, Vector Databases
 
 ---
 
-## 🚀 Get Started
+## About
 
-To explore or modify this website:
+This repository contains the source code for my personal portfolio, featuring selected projects, technical work, experiments, and professional experience.
 
-```bash
-git clone https://github.com/JaySingh79/Portfolio.git
-cd Portfolio
+The portfolio focuses on practical implementations across the ML stack — from traditional machine learning and deep learning to modern **LLM, RAG, and agentic systems**.
+
+---
+
+## Areas of Work
+
+| Area | Topics |
+|---|---|
+| Machine Learning | Supervised/unsupervised learning, feature engineering, evaluation |
+| Deep Learning | Neural architectures, optimization, representation learning |
+| LLMs | Transformers, fine-tuning, inference, prompting |
+| RAG | Retrieval, embeddings, reranking, vector search |
+| Agentic AI | Tool use, workflows, orchestration, multi-step systems |
+| NLP | Embeddings, semantic search, language modeling |
+| ML Engineering | APIs, pipelines, deployment, evaluation, monitoring |
+
+---
+
+## Repository Structure
+
+```text
+Portfolio/
+├── src/                 # Application source
+├── public/              # Static assets
+├── index.html           # Application entry
+├── main.js              # Application logic
+├── style.css            # Styling
+├── robots.txt
+├── sitemap.xml
+└── README.md
